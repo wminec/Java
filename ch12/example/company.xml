@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+<staff>
+	<firstname>you-sin</firstname>
+	<lastname>kim</lastname>
+	<nickname>ysKim</nickname>
+	<salary>1000000</salary>
+</staff>
+<staff>
+	<firstname>홍</firstname>
+	<lastname>길동</lastname>
+	<nickname>fong fong</nickname>
+	<salary>2000000</salary>
+</staff>
+</company>
